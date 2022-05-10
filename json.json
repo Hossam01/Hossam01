@@ -1,0 +1,18 @@
+{
+  "arrayToObject": [
+    1,
+    2,
+    3
+  ],
+  "autoToArray": 123,
+  "arrayToAuto": [
+    1,
+    2,
+    3
+  ],
+  "objectGrow": {
+    "a": "b",
+    "c": "d"
+  },
+  "removeField": "old"
+}
