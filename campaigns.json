@@ -1,0 +1,31 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "share in zakat",
+      "description": "share your zakat and donate now",
+      "pay": 0,
+	  "requiredAmount":5000.0,
+	  "actualAcmount":200.0,
+      "image": "https://i.picsum.photos/id/1062/5092/3395.jpg?hmac=o9m7qeU51uOLfXvepXcTrk2ZPiSBJEkiiOp-Qvxja-k"
+    },
+    {
+      "id": 2,
+      "name": "share in zakat",
+      "description": "share your zakat and donate now",
+      "pay": 0,
+	  "requiredAmount":5000.0,
+"actualAcmount":200.0,
+      "image": "https://i.picsum.photos/id/1062/5092/3395.jpg?hmac=o9m7qeU51uOLfXvepXcTrk2ZPiSBJEkiiOp-Qvxja-k"
+    },
+    {
+      "id": 3,
+      "name": "share in zakat",
+      "description": "share your zakat and donate now",
+      "pay": 0,
+	  	  "requiredAmount":5000.0,
+"actualAcmount":200.0,
+      "image": "https://i.picsum.photos/id/1062/5092/3395.jpg?hmac=o9m7qeU51uOLfXvepXcTrk2ZPiSBJEkiiOp-Qvxja-k"
+    }
+  ]
+}
