@@ -1,5 +1,5 @@
-<h1 align="center">Hi I'm Hossam Abdelnabi</h1>
-<h3 align="center">Android Developer at Tez Tour</h3>
+<h1 align="center">Hi 👋, I'm Hossam Abdelnabi</h1>
+<h3 align="center">Android Developer at Tez Tour🌟</h3>
 
 <br>
 
@@ -9,9 +9,9 @@
 <br>
 
 
-- ًں“« How to reach me **hossam.nabi.cs@gmail.com**
+-📫“« How to reach me **hossam.nabi.cs@gmail.com**
 
-- âڑ، Fun fact :- Food and Musicًںژµ are the reasons to live.
+- ⚡ Fun fact :- Food and Musicًںژµ are the reasons to live.
 
 
 
