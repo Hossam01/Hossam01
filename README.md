@@ -75,6 +75,8 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossam01&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="hossam01" /></p>
+
+<a href="https://app.daily.dev/HossamAbdelnabi"><img src="https://api.daily.dev/devcards/6a903396802e450db7d14de9542362a7.png?r=8yu" width="400" alt="Hossam Abdelnaby's Dev Card"/></a>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
