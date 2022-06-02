@@ -11,7 +11,7 @@
 
 -📫“« How to reach me **hossam.nabi.cs@gmail.com**
 
-- ⚡ Fun fact :- Food and Musicًںژµ are the reasons to live.
+- ⚡ Fun fact :- Food and Musicً 🎵are the reasons to live.
 
 
 
